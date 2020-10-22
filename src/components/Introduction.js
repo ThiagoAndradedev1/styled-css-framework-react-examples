@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import Container from "styled-css-framework-react/core/Container";
 // import {Button} from "styled-css-framework-react/core/Button";
-import Loader from "styled-css-framework-react/core/Loader";
+
 
 
 const Introduction = () => {

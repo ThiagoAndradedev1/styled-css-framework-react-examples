@@ -1,7 +1,6 @@
 import React from 'react';
 // import {Button} from "styled-css-framework-react/core/Button";
-import Container from "styled-css-framework-react/core/Container";
-import Card from "styled-css-framework-react/core/Card";
+
 
 
 const Btn = () => {
