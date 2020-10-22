@@ -2,8 +2,6 @@ import React, { Fragment } from 'react';
 import Container from "styled-css-framework-react/core/Container";
 import Button from "styled-css-framework-react/core/Button";
 
-
-
 const Introduction = () => {
     return (
         <Fragment>
