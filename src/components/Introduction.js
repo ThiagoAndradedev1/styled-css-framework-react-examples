@@ -5,7 +5,6 @@ import Button from "styled-css-framework-react/core/Button";
 const Introduction = () => {
     return (
         <Fragment>
-            <h1>Hello World</h1>
             <Container>
             <div style={{ marginTop: "35px", textAlign: "center" }}>
             <h1 style={{ color: "#fffffe" }}>styled-css-framework-react.</h1>
