@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from "styled-css-framework-react/core/Button";
 import Container from 'styled-css-framework-react/core/Container';
 import Divider from "styled-css-framework-react/core/Divider";
 

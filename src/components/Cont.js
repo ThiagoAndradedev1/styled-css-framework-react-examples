@@ -1,7 +1,6 @@
 import React from 'react';
 import Container from 'styled-css-framework-react/core/Container';
 
-
 const Cont = () => {
     return (
         <div style={{ textAlign: "center", marginTop: "25px" }}>
