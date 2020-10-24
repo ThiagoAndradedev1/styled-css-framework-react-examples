@@ -2,7 +2,7 @@ import React from 'react';
 import Form from "styled-css-framework-react/core/Form";
 import Input from "styled-css-framework-react/core/Input";
 import Container from 'styled-css-framework-react/core/Container';
-import Label from 'styled-css-framework-react/core/Card';
+import Label from 'styled-css-framework-react/core/Label';
 import FormField from 'styled-css-framework-react/core/FormField';
 import Button from 'styled-css-framework-react/core/Button';
 
