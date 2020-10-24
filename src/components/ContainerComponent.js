@@ -1,7 +1,7 @@
 import React from 'react';
 import Container from 'styled-css-framework-react/core/Container';
 
-const Cont = () => {
+const ContainerComponent = () => {
     return (
         <div style={{ textAlign: "center", marginTop: "25px" }}>
         <Container>     
@@ -16,4 +16,4 @@ const Cont = () => {
     )
 }
 
-export default Cont;
+export default ContainerComponent;
