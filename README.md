@@ -49,7 +49,7 @@ Outras dúvidas podem ser sanadas pelo repositório do [Create React App.](https
 ## ⛏️ Feito Com <a name = "feito_com"></a>
 
 - [ReactJs](https://reactjs.org) - Web Framework
-- [styled-css-framework-react](https://firebase.google.com/?hl=pt-br) - React Component Library
+- [styled-css-framework-react](https://www.npmjs.com/package/styled-css-framework-react) - React Component Library
 
 ## ✍️ Autores <a name = "autores"></a>
 
